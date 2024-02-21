@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kam2yar)](https://kamyar.dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamyargerami)](https://kamyar.dev)
