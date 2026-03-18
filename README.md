@@ -1,5 +1,3 @@
-<hr/>
-
 <div align="center">
 
 
